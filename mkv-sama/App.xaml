@@ -1,0 +1,10 @@
+﻿<Application x:Class="mkv_sama.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:mkv_sama"
+             StartupUri="MainWindow.xaml"
+             Startup="AppStartup">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
